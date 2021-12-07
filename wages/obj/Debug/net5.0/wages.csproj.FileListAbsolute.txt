@@ -1,0 +1,16 @@
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\wages\obj\Debug\net5.0\wages.csproj.AssemblyReference.cache
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\wages\obj\Debug\net5.0\wages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\wages\obj\Debug\net5.0\wages.AssemblyInfoInputs.cache
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\wages\obj\Debug\net5.0\wages.AssemblyInfo.cs
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\wages\obj\Debug\net5.0\wages.csproj.CoreCompileInputs.cache
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\wages\bin\Debug\net5.0\wages.exe
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\wages\bin\Debug\net5.0\wages.deps.json
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\wages\bin\Debug\net5.0\wages.runtimeconfig.json
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\wages\bin\Debug\net5.0\wages.runtimeconfig.dev.json
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\wages\bin\Debug\net5.0\wages.dll
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\wages\bin\Debug\net5.0\ref\wages.dll
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\wages\bin\Debug\net5.0\wages.pdb
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\wages\obj\Debug\net5.0\wages.dll
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\wages\obj\Debug\net5.0\ref\wages.dll
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\wages\obj\Debug\net5.0\wages.pdb
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\wages\obj\Debug\net5.0\wages.genruntimeconfig.cache

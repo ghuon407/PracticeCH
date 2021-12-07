@@ -1,0 +1,16 @@
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\fractions\obj\Debug\net5.0\fractions.csproj.AssemblyReference.cache
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\fractions\obj\Debug\net5.0\fractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\fractions\obj\Debug\net5.0\fractions.AssemblyInfoInputs.cache
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\fractions\obj\Debug\net5.0\fractions.AssemblyInfo.cs
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\fractions\obj\Debug\net5.0\fractions.csproj.CoreCompileInputs.cache
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\fractions\bin\Debug\net5.0\fractions.exe
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\fractions\bin\Debug\net5.0\fractions.deps.json
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\fractions\bin\Debug\net5.0\fractions.runtimeconfig.json
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\fractions\bin\Debug\net5.0\fractions.runtimeconfig.dev.json
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\fractions\bin\Debug\net5.0\fractions.dll
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\fractions\bin\Debug\net5.0\ref\fractions.dll
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\fractions\bin\Debug\net5.0\fractions.pdb
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\fractions\obj\Debug\net5.0\fractions.dll
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\fractions\obj\Debug\net5.0\ref\fractions.dll
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\fractions\obj\Debug\net5.0\fractions.pdb
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\fractions\obj\Debug\net5.0\fractions.genruntimeconfig.cache
