@@ -1,0 +1,16 @@
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\stairs\bin\Debug\net5.0\stairs.exe
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\stairs\bin\Debug\net5.0\stairs.deps.json
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\stairs\bin\Debug\net5.0\stairs.runtimeconfig.json
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\stairs\bin\Debug\net5.0\stairs.runtimeconfig.dev.json
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\stairs\bin\Debug\net5.0\stairs.dll
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\stairs\bin\Debug\net5.0\ref\stairs.dll
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\stairs\bin\Debug\net5.0\stairs.pdb
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\stairs\obj\Debug\net5.0\stairs.csproj.AssemblyReference.cache
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\stairs\obj\Debug\net5.0\stairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\stairs\obj\Debug\net5.0\stairs.AssemblyInfoInputs.cache
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\stairs\obj\Debug\net5.0\stairs.AssemblyInfo.cs
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\stairs\obj\Debug\net5.0\stairs.csproj.CoreCompileInputs.cache
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\stairs\obj\Debug\net5.0\stairs.dll
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\stairs\obj\Debug\net5.0\ref\stairs.dll
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\stairs\obj\Debug\net5.0\stairs.pdb
+C:\Users\Garrett\Documents\TrainerCode\Practice Challenges\stairs\obj\Debug\net5.0\stairs.genruntimeconfig.cache
